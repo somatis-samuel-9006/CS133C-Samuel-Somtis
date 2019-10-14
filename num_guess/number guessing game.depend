@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571012889 source:c:\users\ssg56\onedrive\desktop\c programs\number guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

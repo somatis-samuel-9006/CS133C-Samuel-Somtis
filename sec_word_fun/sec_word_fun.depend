@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572185073 source:c:\users\ssg56\onedrive\desktop\c programs\sec_word_fun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572903981 source:c:\users\ssg56\onedrive\desktop\c programs\tic_tac_toe_2d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573677415 source:c:\users\ssg56\onedrive\desktop\c programs\dynttt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

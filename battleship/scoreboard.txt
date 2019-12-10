@@ -1,0 +1,4 @@
+Created by Samuel Somatis
+Players: s & r
+Winner: s
+Factorial of s's guesses: 6
